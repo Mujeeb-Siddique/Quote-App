@@ -4,7 +4,8 @@ import './QuoteBox.css';
 import { FaShuffle } from "react-icons/fa6";
 
 // Access the API key from .env file
-const apiKey = process.env.REACT_APP_API_KEY;
+const apiKey = import.meta.env.VITE_REACT_APP_API_KEY;
+;
 
 const QuoteBox = () => {
   const [quote, setquote] = useState({});
