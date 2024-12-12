@@ -10,7 +10,7 @@ const apiKey = import.meta.env.VITE_REACT_APP_API_KEY;
 const QuoteBox = () => {
   const [quote, setquote] = useState({});
   
-  const category = 'attitude';
+  const category = 'success';
 
   const getQuote = async () => {
     try {
