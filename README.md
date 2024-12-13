@@ -1,5 +1,5 @@
 # Quote-App
-My first Project With "React.js" 
+My first Project With "React.js"
 
 ## Demo
 [![View Demo](https://img.shields.io/badge/View-Demo-brightgreen)](https://Mujeeb-Siddique.github.io/Quote-App)
@@ -27,16 +27,8 @@ Quote-App is a simple React.js application that fetches and displays motivationa
    `npm install`
 4. Run the app:
    `npm start`
-   
+
 The app will be available at `http://localhost:3000`.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Quote-App
->>>>>>> 672f10573465fa0e686a272aabf3c4fafdea62b6
